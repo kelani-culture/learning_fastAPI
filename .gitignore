@@ -1,0 +1,8 @@
+env
+app/__pycache__/__init__.cpython-311.pyc app/__pycache__/database.cpython-311.pyc app/__pycache__/main.cpython-311.pyc app/__pycache__/models.cpython-311.pyc app/__pycache__/oauth2.cpython-311.pyc app/__pycache__/schema.cpython-311.pyc app/__pycache__/utils.cpython-311.pyc
+.vscode
+__pycache__/main.cpython-311.pyc
+.env
+alembic/__pycache__/env.cpython-311.pyc
+alembic/versions/__pycache__/66de2ebd37ca_add_column_to_posts_table.cpython-311.pyc alembic/versions/__pycache__/954130c6bebb_add_user_table.cpython-311.pyc alembic/versions/__pycache__/5671925bc3d0_create_pos_table.cpython-311.pyc
+app/routers/__pycache__/auth.cpython-311.pyc app/routers/__pycache__/post.cpython-311.pyc app/routers/__pycache__/user.cpython-311.pyc app/routers/__pycache__/vote.cpython-311.pyc
